@@ -24,3 +24,15 @@ regression model
     
     ![image](https://github.com/alexandreflach/machine-learning/assets/10851451/57247c62-a07b-4afe-a4c5-a4576a93deef)
 
+
+## python libraries  
+
+virtual env -- to run in a isolated env
+
+pip3 install --user --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+
+## run jupyter
+
+jupyter notebook -- http://localhost:8888/
+
+
