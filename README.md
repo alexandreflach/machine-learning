@@ -36,3 +36,7 @@ pip3 install --user --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
 jupyter notebook -- http://localhost:8888/
 
 
+#reference file Housing.ipynb
+
+https://github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb
+
